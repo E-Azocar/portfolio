@@ -1,0 +1,19 @@
+.footer-gray {
+    color: #fff;
+    background: #2c2c2c;
+}
+
+.footer-gray .copy-section{
+    background: #1d1d1d;
+}
+
+.footer-gray .btn-link{
+    color: #fff;
+    font-size: 26px;
+    transition: all .2s;
+}
+
+.footer-gray .btn-link:hover{
+    color: #fff;
+    transform: scale(1.2);
+}
